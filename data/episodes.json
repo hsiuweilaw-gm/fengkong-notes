@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-10",
- "count": 98,
+ "updated": "2026-10-11",
+ "count": 99,
  "episodes": [
+  {
+   "no": 99,
+   "title": "國道上被東西砸到，保險公司說你肇事逃逸",
+   "keywords": "車體險・不保事項的解釋",
+   "hook": "晚上十點多，車子開在國道內側車道。",
+   "takeaways": [
+    "保單沒有定義的詞，有疑義時要作有利於被保險人的解釋",
+    "本案法院看的是有沒有逃避責任的意思",
+    "車損原因有疑問，不能只憑推測"
+   ],
+   "case": "臺灣高等法院 114 年度保險上易字第 8 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C114%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C8%2C20260616%2C1",
+   "line": "保險理賠",
+   "date": "2026-10-11",
+   "img": "img/099.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122125689045373029",
+   "ig": "https://www.instagram.com/p/DeWzpBPk0tU/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DeWzrQ9iQTy"
+  },
   {
    "no": 98,
    "title": "「你不會全部和阿嬤說吧？」",
