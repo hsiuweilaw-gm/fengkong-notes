@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-11",
- "count": 99,
+ "updated": "2026-10-12",
+ "count": 100,
  "episodes": [
+  {
+   "no": 100,
+   "title": "弟弟二十多年前的債，執行的是哥哥自己的保單",
+   "keywords": "繼承債務・債務人異議之訴",
+   "hook": "哥哥自己名下的保單，被債權人聲請強制執行了。",
+   "takeaways": [
+    "拋棄繼承的三個月，從知道自己有繼承權那天起算",
+    "「不知道有債務」是消極事實，舉證責任不會全部壓在繼承人身上",
+    "舊的執行名義，不等於永遠照原樣執行"
+   ],
+   "case": "臺灣高等法院高雄分院 115 年度上易字第 98 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSHV%2C115%2C%E4%B8%8A%E6%98%93%2C98%2C20260731%2C1",
+   "line": "保險理賠",
+   "date": "2026-10-12",
+   "img": "img/100.jpg",
+   "fb": "https://www.facebook.com/1114529025087096_122125893459373029",
+   "ig": "https://www.instagram.com/p/DeZXUGwk2mK/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DeZXWTCiVd0"
+  },
   {
    "no": 99,
    "title": "國道上被東西砸到，保險公司說你肇事逃逸",
