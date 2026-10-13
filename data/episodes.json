@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-12",
- "count": 100,
+ "updated": "2026-10-13",
+ "count": 101,
  "episodes": [
+  {
+   "no": 101,
+   "title": "保單寫了住院，沒寫一定要過夜",
+   "keywords": "條款解釋・日間病房算不算住院",
+   "hook": "保戶在日間病房前後住了 162 天。保險公司只賠了 3 天。",
+   "takeaways": [
+    "條款沒有區分型態，本案法院就照文字讀",
+    "簽約當時的法規用語，可以用來證明「合理期待」",
+    "這個結論綁在保單的年份上，不要直接套用到新保單"
+   ],
+   "case": "臺灣高等法院 115 年度保險上易字第 3 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C115%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C3%2C20260825%2C1",
+   "line": "保險理賠",
+   "date": "2026-10-13",
+   "img": "img/101.jpg",
+   "fb": "https://www.facebook.com/1114529025087096_122126077935373029",
+   "ig": "https://www.instagram.com/p/Deb7Vk8E5id/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Deb7W4CCcoI"
+  },
   {
    "no": 100,
    "title": "弟弟二十多年前的債，執行的是哥哥自己的保單",
