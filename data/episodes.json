@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-13",
- "count": 101,
+ "updated": "2026-10-14",
+ "count": 102,
  "episodes": [
+  {
+   "no": 102,
+   "title": "照片是她自己拍的，法院說這不能算她的過失",
+   "keywords": "未成年人性自主・與有過失",
+   "hook": "上了法庭，對方的抗辯是：照片是她自己拍的，她媽媽也沒看好。",
+   "takeaways": [
+    "「照片是她自己拍的」，不能拿來減輕對方的責任",
+    "本案法院：未滿 14 歲，縱未違反意願，仍侵害性自主決定權",
+    "未成年子女侵害他人，父母的責任以負責為原則"
+   ],
+   "case": "臺灣高等法院臺中分院 113 年度上易字第 528 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TCHV%2C113%2C%E4%B8%8A%E6%98%93%2C528%2C20250205%2C1",
+   "line": "家長與孩子",
+   "date": "2026-10-14",
+   "img": "img/102.jpg",
+   "fb": "https://www.facebook.com/1114529025087096_122126238363373029",
+   "ig": "https://www.instagram.com/p/Deef7fOE1U8/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Deef804iUCu"
+  },
   {
    "no": 101,
    "title": "保單寫了住院，沒寫一定要過夜",
