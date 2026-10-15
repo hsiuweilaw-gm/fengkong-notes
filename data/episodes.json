@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-14",
- "count": 102,
+ "updated": "2026-10-15",
+ "count": 103,
  "episodes": [
+  {
+   "no": 103,
+   "title": "帳單上寫 0 元，不代表這筆債不見了",
+   "keywords": "支付命令・債務人異議之訴",
+   "hook": "二十年前的信用卡帳單，其中一期寫著：應繳總額 0 元。",
+   "takeaways": [
+    "支付命令送達後，有二十天可以異議，而且不必寫理由",
+    "沒有掛失，又繼續繳錢，本案法院據此認定消費屬實",
+    "帳單歸零，要看是清償，還是債務被轉走了"
+   ],
+   "case": "臺灣高等法院臺南分院 115 年度上易字第 38 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNHV%2C115%2C%E4%B8%8A%E6%98%93%2C38%2C20260731%2C1",
+   "line": "生活與程序",
+   "date": "2026-10-15",
+   "img": "img/103.jpg",
+   "fb": "https://www.facebook.com/1114529025087096_122126401347373029",
+   "ig": "https://www.instagram.com/p/DehEyrdk_MT/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DehE0oZCZJM"
+  },
   {
    "no": 102,
    "title": "照片是她自己拍的，法院說這不能算她的過失",
