@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-15",
- "count": 103,
+ "updated": "2026-10-16",
+ "count": 104,
  "episodes": [
+  {
+   "no": 104,
+   "title": "孩子用你的平板買了 15 萬，法院說這筆錢要不回來",
+   "keywords": "未成年人契約・民法 §83",
+   "hook": "平板放在家裡，沒有上鎖。",
+   "takeaways": [
+    "孩子未成年，契約不一定就無效",
+    "代付簡訊，第一封就要看",
+    "交給孩子的裝置，先設好防護"
+   ],
+   "case": "臺灣臺北地方法院 114 年度簡上字第 107 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPDV%2C114%2C%E7%B0%A1%E4%B8%8A%2C107%2C20250820%2C1",
+   "line": "家長與孩子",
+   "date": "2026-10-16",
+   "img": "img/104.jpg",
+   "fb": "https://www.facebook.com/1114529025087096_122126565657373029",
+   "ig": "https://www.instagram.com/p/DejqnD6k5kF/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DejqpZGCdIJ"
+  },
   {
    "no": 103,
    "title": "帳單上寫 0 元，不代表這筆債不見了",
