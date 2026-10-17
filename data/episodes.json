@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-16",
- "count": 104,
+ "updated": "2026-10-17",
+ "count": 105,
  "episodes": [
+  {
+   "no": 105,
+   "title": "手術併發症，算不算意外？",
+   "keywords": "傷害保險・意外的定義＋失能保險金的時效",
+   "hook": "手術前簽的說明書上寫著：這類併發症，機率大約 5% 到 10%。",
+   "takeaways": [
+    "手術併發症，要看的是這一個人的風險",
+    "醫院寫下的文件，會變成證據",
+    "失能的兩年時效，本案從症狀固定那天算"
+   ],
+   "case": "臺灣高等法院 114 年度保險上易字第 2 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C114%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C2%2C20250625%2C1",
+   "line": "保險理賠",
+   "date": "2026-10-17",
+   "img": "img/105.jpg",
+   "fb": "https://www.facebook.com/1114529025087096_122126776203373029",
+   "ig": "https://www.instagram.com/p/DemPSUeEzOV/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DemPTtaCagb"
+  },
   {
    "no": 104,
    "title": "孩子用你的平板買了 15 萬，法院說這筆錢要不回來",
