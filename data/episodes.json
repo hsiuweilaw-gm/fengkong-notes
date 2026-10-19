@@ -1,7 +1,45 @@
 {
- "updated": "2026-10-17",
- "count": 105,
+ "updated": "2026-10-19",
+ "count": 107,
  "episodes": [
+  {
+   "no": 107,
+   "title": "一次繳清比較便宜，提前退班的時候，要照原價算",
+   "keywords": "補習費退費・收退標準的拘束力",
+   "hook": "一年 24 萬，一次付清，比收費表便宜。",
+   "takeaways": [
+    "簽名之前，先看收退費那一張",
+    "本案的優惠，綁著一次繳齊一年",
+    "口頭說好的，要落在文字上"
+   ],
+   "case": "臺灣臺中地方法院 114 年度簡上字第 197 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TCDV%2C114%2C%E7%B0%A1%E4%B8%8A%2C197%2C20260212%2C1",
+   "line": "家長與孩子",
+   "date": "2026-10-19",
+   "img": "img/107.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122127089859373029",
+   "ig": "https://www.instagram.com/p/DerX9AVAYdB/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DerX--hCQB5"
+  },
+  {
+   "no": 106,
+   "title": "當天晚上傳給老師的那幾則訊息，法院拿來當證據",
+   "keywords": "職場性騷擾・舉證責任＋僱用人責任",
+   "hook": "實習第二天，晚上 7 點 39 分。",
+   "takeaways": [
+    "當下跟一個人說，而且留下文字",
+    "沒有目擊者，法院看的是整體",
+    "規章訓練之外，要有人督導落實"
+   ],
+   "case": "臺灣高等法院 114 年度上易字第 960 號",
+   "judgment_url": "",
+   "line": "職場",
+   "date": "2026-10-18",
+   "img": "img/106.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122126938245373029",
+   "ig": "https://www.instagram.com/p/Deo1MlbgRC9/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Deo1OvYiWdL"
+  },
   {
    "no": 105,
    "title": "手術併發症，算不算意外？",
