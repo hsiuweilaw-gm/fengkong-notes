@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-19",
- "count": 107,
+ "updated": "2026-10-20",
+ "count": 108,
  "episodes": [
+  {
+   "no": 108,
+   "title": "人行道絆倒，國家要賠；單人病房的錢拿不回來",
+   "keywords": "國家賠償・公共設施管理欠缺＋損害項目",
+   "hook": "同一次受傷，自費骨板 15 萬多元，法院准了；單人病房 7,500 元，沒有准。",
+   "takeaways": [
+    "公共設施有欠缺，國賠不以機關有過失為要件",
+    "自費項目，要有醫師說明為什麼需要",
+    "家人照顧、交通費也能請，但要有紀錄撐著"
+   ],
+   "case": "臺灣新竹地方法院 114 年度國簡上字第 2 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=SCDV%2C114%2C%E5%9C%8B%E7%B0%A1%E4%B8%8A%2C2%2C20260916%2C1",
+   "line": "保險理賠",
+   "date": "2026-10-20",
+   "img": "img/108.jpg",
+   "fb": "https://www.facebook.com/1114529025087096_122127238017373029",
+   "ig": "https://www.instagram.com/p/Det81vuAZcJ/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Det838lCbkv"
+  },
   {
    "no": 107,
    "title": "一次繳清比較便宜，提前退班的時候，要照原價算",
