@@ -1,7 +1,45 @@
 {
- "updated": "2026-10-21",
- "count": 109,
+ "updated": "2026-10-23",
+ "count": 111,
  "episodes": [
+  {
+   "no": 113,
+   "title": "捐肝給媽媽，保險賠不賠？",
+   "keywords": "保險法 §30 履行道德上義務",
+   "hook": "媽媽確診末期肝病，需要換肝。",
+   "takeaways": [
+    "捐器官給父母，可以看看自己的健康險",
+    "意外險那一類，本案沒有賠",
+    "保單要在平常就買好"
+   ],
+   "case": "臺灣高等法院 115 年度保險上字第 2 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C115%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%2C2%2C20260630%2C1",
+   "line": "保險理賠",
+   "date": "2026-10-23",
+   "img": "img/113.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122127688557373029",
+   "ig": "https://www.instagram.com/p/De1rdV2E4Qe/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/De1rfMxCXNj"
+  },
+  {
+   "no": 110,
+   "title": "線上課程第 8 天想退，只退 30%",
+   "keywords": "定型化契約・審閱期＋網課退費＋分期付款",
+   "hook": "一套電腦軟體的線上課程，17 萬元。同一天，還簽了一份分期付款，36 期，每期 4,722 元。",
+   "takeaways": [
+    "7 日的門檻，看契約從哪天生效",
+    "線上課程，不適用補習班的退費規定",
+    "課程契約有效，分期款照繳"
+   ],
+   "case": "臺灣臺北地方法院 114 年度消簡上字第 4 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPDV%2C114%2C%E6%B6%88%E7%B0%A1%E4%B8%8A%2C4%2C20260527%2C1",
+   "line": "生活與程序",
+   "date": "2026-10-22",
+   "img": "img/110.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122127531537373029",
+   "ig": "https://www.instagram.com/p/DezH9a7gTk7/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DezH_taCcE8"
+  },
   {
    "no": 109,
    "title": "她沒跟家裡說，因為不想換補習班",
