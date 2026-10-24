@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-23",
- "count": 111,
+ "updated": "2026-10-24",
+ "count": 112,
  "episodes": [
+  {
+   "no": 114,
+   "title": "交出 31 萬，LINE 裡只有自己在說",
+   "keywords": "消費借貸的舉證責任",
+   "hook": "一張 LINE 截圖，上面只有借錢出去的那一方在說話，對方沒有已讀，也沒有回。",
+   "takeaways": [
+    "借錢要留下「對方」說的話",
+    "自己事後補寫的字，是自己的記載",
+    "證人最好親眼見到借錢的經過"
+   ],
+   "case": "臺灣雲林地方法院 115 年度簡上字第 22 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=ULDV%2C115%2C%E7%B0%A1%E4%B8%8A%2C22%2C20260826%2C1",
+   "line": "生活與程序",
+   "date": "2026-10-24",
+   "img": "img/114.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122127833925373029",
+   "ig": "https://www.instagram.com/p/De4Q7Idk39o/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/De4Q8vxiVdz"
+  },
   {
    "no": 113,
    "title": "捐肝給媽媽，保險賠不賠？",
