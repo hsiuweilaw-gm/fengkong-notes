@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-24",
- "count": 112,
+ "updated": "2026-10-25",
+ "count": 113,
  "episodes": [
+  {
+   "no": 112,
+   "title": "教室裡的衝突，學校要不要負責？",
+   "keywords": "校園衝突・學校責任・互毆與過失相抵",
+   "hook": "孩子在教室被打，家長連導師、教官、學校一起告。一審：學校不用賠。",
+   "takeaways": [
+    "孩子被取綽號，要讓學校留下紀錄",
+    "覺得是霸凌，就正式提檢舉書",
+    "雙方互毆，不能用「對方也有動手」來少賠"
+   ],
+   "case": "臺灣新北地方法院 115 年度訴字第 67 號",
+   "judgment_url": "",
+   "line": "家長與孩子",
+   "date": "2026-10-25",
+   "img": "img/112.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122127989151373029",
+   "ig": "https://www.instagram.com/p/De606bOE74d/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/De608dMCexS"
+  },
   {
    "no": 114,
    "title": "交出 31 萬，LINE 裡只有自己在說",
