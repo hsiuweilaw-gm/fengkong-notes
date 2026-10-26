@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-25",
- "count": 113,
+ "updated": "2026-10-26",
+ "count": 114,
  "episodes": [
+  {
+   "no": 115,
+   "title": "診斷書寫了第 1 級失能，為什麼不賠？",
+   "keywords": "失能給付的「症狀固定」",
+   "hook": "診斷書上寫著：肺部臟器機能遺存極度障害，經常需要醫療護理人員或專人周密照護，終身不能從事任何工作。",
+   "takeaways": [
+    "本案保單的失能給付，看的是「症狀固定」",
+    "診斷書的文字，不等於保單的判定",
+    "失能等級，看症狀穩定時的狀態"
+   ],
+   "case": "臺灣高等法院臺南分院 115 年度保險上易字第 7 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNHV%2C115%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C7%2C20260909%2C1",
+   "line": "保險理賠",
+   "date": "2026-10-26",
+   "img": "img/115.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122128154217373029",
+   "ig": "https://www.instagram.com/p/De9afddE9mc/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/De9ahsOiS0s"
+  },
   {
    "no": 112,
    "title": "教室裡的衝突，學校要不要負責？",
