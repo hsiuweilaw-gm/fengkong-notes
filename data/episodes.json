@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-26",
- "count": 114,
+ "updated": "2026-10-27",
+ "count": 115,
  "episodes": [
+  {
+   "no": 116,
+   "title": "分手前後，對方回了一句「好的」",
+   "keywords": "和解的效力・民法 §736–§738",
+   "hook": "分手前後，出借的一方傳了一段 LINE：「總共160萬」「這些錢要怎麼歸還」。",
+   "takeaways": [
+    "對方親口承認金額的那一句，要留下來",
+    "和解講定了，就依和解走",
+    "和解原則上不能用「算錯了」撤銷"
+   ],
+   "case": "臺灣高等法院臺中分院 114 年度上易字第 300 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TCHV%2C114%2C%E4%B8%8A%E6%98%93%2C300%2C20260729%2C2",
+   "line": "生活與程序",
+   "date": "2026-10-27",
+   "img": "img/116.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122128302795373029",
+   "ig": "https://www.instagram.com/p/De__BwFk4KB/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/De__DrXCSgK"
+  },
   {
    "no": 115,
    "title": "診斷書寫了第 1 級失能，為什麼不賠？",
