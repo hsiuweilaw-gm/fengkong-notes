@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-29",
- "count": 117,
+ "updated": "2026-10-30",
+ "count": 118,
  "episodes": [
+  {
+   "no": 119,
+   "title": "媽媽拿女兒的名字簽了 500 萬本票",
+   "keywords": "本票發票人責任・舉證責任",
+   "hook": "女兒收到法院准許本票強制執行的裁定，才知道自己名下「簽過」一張 500 萬元的本票。簽名的人，是媽媽。",
+   "takeaways": [
+    "沒簽名、也沒授權別人簽，就不負發票人責任",
+    "舉證責任先落在拿本票的人身上",
+    "證詞可不可信，法院看整體證據是否一致"
+   ],
+   "case": "臺灣臺北地方法院 114 年度簡上字第 463 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPDV%2C114%2C%E7%B0%A1%E4%B8%8A%2C463%2C20260923%2C1",
+   "line": "生活與程序",
+   "date": "2026-10-30",
+   "img": "img/119.jpg",
+   "fb": "https://www.facebook.com/1114529025087096_122128764219373029",
+   "ig": "https://www.instagram.com/p/DfHtqTok9Z5/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfHtsAciWWc"
+  },
   {
    "no": 118,
    "title": "退租時，房東列了 8 個扣款名目",
