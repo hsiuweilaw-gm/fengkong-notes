@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-30",
- "count": 118,
+ "updated": "2026-10-31",
+ "count": 119,
  "episodes": [
+  {
+   "no": 120,
+   "title": "名字叫終身壽險，解約金扣不得",
+   "keywords": "保險法129條之1・健康保險契約",
+   "hook": "保單名稱寫的是「終身壽險」。法院認定，這張保單的解約金，銀行扣不到。",
+   "takeaways": [
+    "叫「XX終身壽險」的保單，法院也會回頭看條款標註的給付項目和比重",
+    "要保人是債務人時，健康保險契約的解約金不得被扣押或強制執行",
+    "本案的認定只限於這張兼具健康險性質的保單"
+   ],
+   "case": "臺灣高等法院 115 年度抗字第 726 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C115%2C%E6%8A%97%2C726%2C20260917%2C1",
+   "line": "保險理賠",
+   "date": "2026-10-31",
+   "img": "img/120.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122128928703373029",
+   "ig": "https://www.instagram.com/p/DfKSbjrE4G2/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfKSdn3CWRQ"
+  },
   {
    "no": 119,
    "title": "媽媽拿女兒的名字簽了 500 萬本票",
