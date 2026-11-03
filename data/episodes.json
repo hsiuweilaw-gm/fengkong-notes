@@ -1,7 +1,64 @@
 {
- "updated": "2026-10-31",
- "count": 119,
+ "updated": "2026-11-03",
+ "count": 122,
  "episodes": [
+  {
+   "no": 123,
+   "title": "才藝課上的青蛙跳，媽媽告到法院",
+   "keywords": "才藝班管教・名譽權・一審未確定",
+   "hook": "沒撿起地上的球桌保護貼，孩子被教練罰繞著球桌跳青蛙跳10圈，接著負責人用球拍打了手心5下。",
+   "takeaways": [
+    "本案的訓練要求，法院認定有正當理由",
+    "覺得被背叛，法律上難以求償",
+    "協調會上互相說明立場，法院認定屬於合理陳述"
+   ],
+   "case": "臺灣臺北地方法院 114 年度消字第 62 號",
+   "judgment_url": "",
+   "line": "家長與孩子",
+   "date": "2026-11-03",
+   "img": "img/123.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122129382831373029",
+   "ig": "https://www.instagram.com/p/DfSAJ1bE7YJ/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfSAMEViUR_"
+  },
+  {
+   "no": 122,
+   "title": "算不算皮膚癌",
+   "keywords": "重大疾病條款除外・有利於被保險人解釋原則",
+   "hook": "健保代碼 C51.9。保險公司說，這是皮膚癌，除外不賠。",
+   "takeaways": [
+    "保單條款文字有疑義時，以有利於被保險人的方式解釋",
+    "條款寫「依某分類標準」時，去查那份標準本身怎麼分",
+    "被拒賠時，先看診斷書上的ICD代碼，對照條款除外項目寫的分類依據"
+   ],
+   "case": "臺灣臺中地方法院 115 年度保險簡上字第 2 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TCDV%2C115%2C%E4%BF%9D%E9%9A%AA%E7%B0%A1%E4%B8%8A%2C2%2C20260911%2C1",
+   "line": "保險理賠",
+   "date": "2026-11-02",
+   "img": "img/122.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122129238801373029",
+   "ig": "https://www.instagram.com/p/DfPeVZjE-kw/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfPeXBuiRME"
+  },
+  {
+   "no": 121,
+   "title": "狗的扶養費",
+   "keywords": "寵物侵權賠償範圍・慰撫金",
+   "hook": "每月500元、養了14年，飼主向撞傷愛犬的駕駛人求償8萬4,000元扶養費。法院一元都沒准。",
+   "takeaways": [
+    "單據要留著，估價單不算實際支出",
+    "轉帳要附上能證明用途與對象的憑證",
+    "飼養本來就要付的錢，法院不算事故造成的損害"
+   ],
+   "case": "臺灣臺北地方法院臺北簡易庭 113 年度北簡字第 13013 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPEV%2C113%2C%E5%8C%97%E7%B0%A1%2C13013%2C20251027%2C2",
+   "line": "生活與程序",
+   "date": "2026-11-01",
+   "img": "img/121.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122129084673373029",
+   "ig": "https://www.instagram.com/p/DfM3QDPEz3D/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfM585uH4yD"
+  },
   {
    "no": 120,
    "title": "名字叫終身壽險，解約金扣不得",
