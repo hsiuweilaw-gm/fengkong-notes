@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-03",
- "count": 122,
+ "updated": "2026-11-04",
+ "count": 123,
  "episodes": [
+  {
+   "no": 124,
+   "title": "說要退夥，積欠的出資款還要還嗎",
+   "keywords": "合夥退夥・結算・代墊出資",
+   "hook": "還了8個月、共8萬元，合夥人不還了，理由是：我退夥了。",
+   "takeaways": [
+    "退夥要先結算，帳目才算數",
+    "本案合夥契約怎麼寫，決定責任怎麼算",
+    "本案退夥前欠的錢，退夥後還是要先清"
+   ],
+   "case": "臺灣臺中地方法院 115 年度簡上字第 234 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TCDV%2C115%2C%E7%B0%A1%E4%B8%8A%2C234%2C20260911%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-04",
+   "img": "img/124.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122129531913373029",
+   "ig": "https://www.instagram.com/p/DfUlo24E7Rs/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfUlq7QiVMR"
+  },
   {
    "no": 123,
    "title": "才藝課上的青蛙跳，媽媽告到法院",
