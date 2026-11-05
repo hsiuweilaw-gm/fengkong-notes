@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-04",
- "count": 123,
+ "updated": "2026-11-05",
+ "count": 124,
  "episodes": [
+  {
+   "no": 125,
+   "title": "樓上說沒漏水，鑑定報告說要整條重配",
+   "keywords": "漏水鑑定・防水層・重新配管",
+   "hook": "法官到現場勘驗那天，樓下天花板是乾的。",
+   "takeaways": [
+    "勘驗當天現場是乾的，推翻不了鑑定結論",
+    "鑑定報告建議整條重配，法院採信專業判斷",
+    "自己補過防水卻沒改善，仍要依判決重做"
+   ],
+   "case": "臺灣苗栗地方法院 114 年度簡上字第 55 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=MLDV%2C114%2C%E7%B0%A1%E4%B8%8A%2C55%2C20260923%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-05",
+   "img": "img/125.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122129689773373029",
+   "ig": "https://www.instagram.com/p/DfXKZa-E_rW/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfXKay9CfGX"
+  },
   {
    "no": 124,
    "title": "說要退夥，積欠的出資款還要還嗎",
