@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-05",
- "count": 124,
+ "updated": "2026-11-06",
+ "count": 125,
  "episodes": [
+  {
+   "no": 126,
+   "title": "工程做一半業主喊停，錢退多少",
+   "keywords": "承攬終止・完工比例・定金用途",
+   "hook": "定金10萬元，工程行說拿去買了鐵皮屋的材料。業主說，沒有證據。",
+   "takeaways": [
+    "工程沒有做完。",
+    "業主說：工程行沒有證據。",
+    "工程已經做了大部分，定金也有去處。"
+   ],
+   "case": "臺灣臺東地方法院 115 年度建簡上字第 1 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TTDV%2C115%2C%E5%BB%BA%E7%B0%A1%E4%B8%8A%2C1%2C20260902%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-06",
+   "img": "img/126.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122129841555373029",
+   "ig": "https://www.instagram.com/p/DfZvStsk-U0/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfZvUIFiSIH"
+  },
   {
    "no": 125,
    "title": "樓上說沒漏水，鑑定報告說要整條重配",
