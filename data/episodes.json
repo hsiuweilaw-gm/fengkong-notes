@@ -1,7 +1,45 @@
 {
- "updated": "2026-11-06",
- "count": 125,
+ "updated": "2026-11-08",
+ "count": 127,
  "episodes": [
+  {
+   "no": 128,
+   "title": "幫兄弟代繳的錢",
+   "keywords": "連帶保證・代位・5年時效・繼承",
+   "hook": "6萬2,381元，全部是自己代繳的。打官司要回來，二審只准2萬2,130元。",
+   "takeaways": [
+    "連帶保證人代繳之後，可以承接債權人對主債務人的債權",
+    "相當於租金的不當得利，時效5年；代位之後，時效照原債權算",
+    "代繳的錢，收據原本與存根要留在繳款人手上"
+   ],
+   "case": "臺灣高等法院高雄分院 115 年度上易字第 148 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSHV%2C115%2C%E4%B8%8A%E6%98%93%2C148%2C20260918%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-08",
+   "img": "img/128.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122130211509373029",
+   "ig": "https://www.instagram.com/p/Dfe4zSZE1oX/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Dfe41ZyCYZK"
+  },
+  {
+   "no": 127,
+   "title": "保險期間打錯了",
+   "keywords": "要保書與保單不一致・新要約・防疫保險",
+   "hook": "要保書寫到111年1月，保單印的是111年11月。隔離發生在111年10月，保險公司說：保單印錯了。",
+   "takeaways": [
+    "保單與要保書不一樣，要保人同意之前，保單的條件不成立",
+    "保單上的期間涵蓋了隔離期間，保戶仍然敗訴",
+    "保單寄到，先對一次期間"
+   ],
+   "case": "臺灣高等法院 114 年度保險上易字第 15 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C114%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C15%2C20260203%2C1",
+   "line": "保險理賠",
+   "date": "2026-11-07",
+   "img": "img/127.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122130002799373029",
+   "ig": "https://www.instagram.com/p/DfcUBIfE7yb/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfcUDcjCe18"
+  },
   {
    "no": 126,
    "title": "工程做一半業主喊停，錢退多少",
