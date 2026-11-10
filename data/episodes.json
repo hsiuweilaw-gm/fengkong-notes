@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-09",
- "count": 128,
+ "updated": "2026-11-10",
+ "count": 129,
  "episodes": [
+  {
+   "no": 130,
+   "title": "兩張保單，一張賠一張不賠",
+   "keywords": "保險法第127條・舉證責任・豁免保費",
+   "hook": "兩張保單，填的都是體重78公斤。同一場手術，一張判賠，一張判不賠。",
+   "takeaways": [
+    "主張投保時已經有病，保險公司要自己證明",
+    "約款沒寫的限制，保險公司事後不能加",
+    "要保書填的數字與病歷、照片落差大，爭議時要自己拿出證據"
+   ],
+   "case": "臺灣高等法院高雄分院 114 年度保險上字第 11 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSHV%2C114%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%2C11%2C20260408%2C1",
+   "line": "保險理賠",
+   "date": "2026-11-10",
+   "img": "img/130.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122130508221373029",
+   "ig": "https://www.instagram.com/p/DfkCeFNk7rd/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfkCgEMCb6E"
+  },
   {
    "no": 129,
    "title": "一再追問行蹤，算不算盡到監督",
