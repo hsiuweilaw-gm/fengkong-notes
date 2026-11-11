@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-10",
- "count": 129,
+ "updated": "2026-11-11",
+ "count": 130,
  "episodes": [
+  {
+   "no": 131,
+   "title": "簽了服務報酬確認單，才說仲介壓價",
+   "keywords": "不動產仲介・雙方代理書面同意・民法第571條",
+   "hook": "成交那天，賣方簽了一張服務報酬確認單，同意付仲介41萬元。事後，賣方主張仲介壓價，這筆報酬不用付。",
+   "takeaways": [
+    "同時代理買賣雙方，要有書面同意",
+    "簽確認單之前，把疑慮講出來",
+    "說仲介壓價，要拿得出能比較的成交資料"
+   ],
+   "case": "臺灣臺北地方法院 114 年度簡上字第 481 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPDV%2C114%2C%E7%B0%A1%E4%B8%8A%2C481%2C20260819%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-11",
+   "img": "img/131.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122130667821373029",
+   "ig": "https://www.instagram.com/p/DfmnLO4k4Q3/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfmnMklCecf"
+  },
   {
    "no": 130,
    "title": "兩張保單，一張賠一張不賠",
