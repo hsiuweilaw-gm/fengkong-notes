@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-11",
- "count": 130,
+ "updated": "2026-11-12",
+ "count": 131,
  "episodes": [
+  {
+   "no": 132,
+   "title": "對方一句「我都願意付」，車禍賠償的時效怎麼算",
+   "keywords": "承認・時效中斷・民法第129條",
+   "hook": "車禍快滿兩年的時候，肇事駕駛在 LINE 上說：「該怎麼付我都願意付」。兩個多月後騎士起訴，駕駛說：時效過了。",
+   "takeaways": [
+    "車禍賠償請求權的2年，從知道損害與加害人那天算起",
+    "時效屆滿前，對方用 LINE 表示願意賠，法院可能認定是承認，時效重新起算2年",
+    "超過2年才起訴，還要檢查中間有沒有中斷事由"
+   ],
+   "case": "臺灣高雄地方法院 115 年度簡上字第 104 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSDV%2C115%2C%E7%B0%A1%E4%B8%8A%2C104%2C20260817%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-12",
+   "img": "img/132.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122130846699373029",
+   "ig": "https://www.instagram.com/p/DfpL-c3EywR/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfpMAxhiRbE"
+  },
   {
    "no": 131,
    "title": "簽了服務報酬確認單，才說仲介壓價",
