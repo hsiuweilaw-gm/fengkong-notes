@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-12",
- "count": 131,
+ "updated": "2026-11-13",
+ "count": 132,
  "episodes": [
+  {
+   "no": 133,
+   "title": "六段住院，法院認哪幾段",
+   "keywords": "住院必要性・長期疾病反覆住院",
+   "hook": "六次住院，保險公司一次都不賠，理由是：都不必住。",
+   "takeaways": [
+    "每一段都是醫師親自診斷、正式辦手續才住院。",
+    "同一疾病反覆住院，日數要連起來算。",
+    "住院期間做的事，門診就能做。"
+   ],
+   "case": "臺灣高等法院 114 年度保險上易字第 4 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C114%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C4%2C20251021%2C1",
+   "line": "保險理賠",
+   "date": "2026-11-13",
+   "img": "img/133.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122130982767373029",
+   "ig": "https://www.instagram.com/p/DfrwwdjE-ck/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Dfrwx_YiZ_3"
+  },
   {
    "no": 132,
    "title": "對方一句「我都願意付」，車禍賠償的時效怎麼算",
