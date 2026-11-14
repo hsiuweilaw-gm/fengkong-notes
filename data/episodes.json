@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-13",
- "count": 132,
+ "updated": "2026-11-14",
+ "count": 133,
  "episodes": [
+  {
+   "no": 134,
+   "title": "契約沒寫的一戶一機車位",
+   "keywords": "建案廣告・消保法第22條・減少價金",
+   "hook": "「一戶一機車位」，代銷在賞屋時這樣說，LINE裡也這樣傳。交屋後住戶才知道，機車位劃在鄰地上，鄰地所有人公告要封閉，限期請住戶把機車移走。",
+   "takeaways": [
+    "建案廣告寫的車位，契約沒寫，也可能算契約內容",
+    "本案代銷對外傳的廣告訊息，建商與基地出賣人要負責",
+    "廣告承諾的車位交屋時就沒有，買方可以請求減少價金"
+   ],
+   "case": "臺灣高等法院 115 年度上易字第 148 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C115%2C%E4%B8%8A%E6%98%93%2C148%2C20260825%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-14",
+   "img": "img/134.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122131127619373029",
+   "ig": "https://www.instagram.com/p/DfuVmWzk5Sm/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfuVoa_iX0I"
+  },
   {
    "no": 133,
    "title": "六段住院，法院認哪幾段",
