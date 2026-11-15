@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-14",
- "count": 133,
+ "updated": "2026-11-15",
+ "count": 134,
  "episodes": [
+  {
+   "no": 135,
+   "title": "差了四十二分鐘",
+   "keywords": "車對車碰撞險・直接碰撞・事故時間",
+   "hook": "56萬7,839元的修車費，保險公司不賠。兩輛車的電腦紀錄，對應的碰撞時間差了42分鐘。",
+   "takeaways": [
+    "本案的車對車碰撞險約款：要先確認對方車輛，而且要直接碰撞",
+    "本案法院拿監視器、兩車的電腦紀錄、廠商函覆和警方資料互相比對",
+    "事故當下，多留幾份紀錄"
+   ],
+   "case": "臺灣高等法院高雄分院 114 年度保險上易字第 1 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSHV%2C114%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C1%2C20260401%2C1",
+   "line": "保險理賠",
+   "date": "2026-11-15",
+   "img": "img/135.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122131276083373029",
+   "ig": "https://www.instagram.com/p/Dfw6Yf2k8ob/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Dfw6amCCeoo"
+  },
   {
    "no": 134,
    "title": "契約沒寫的一戶一機車位",
