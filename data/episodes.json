@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-15",
- "count": 134,
+ "updated": "2026-11-16",
+ "count": 135,
  "episodes": [
+  {
+   "no": 136,
+   "title": "通勤路上扭到腳",
+   "keywords": "職業災害・自費醫材・自請離職",
+   "hook": "走路去上班的路上，右腳拐了一下。照常進醫院上班，到下班時，腳痛得已經影響走路。",
+   "takeaways": [
+    "上下班時間、從住處往返工作地點、走合理路徑的通勤途中受傷，本判決引用的最高法院見解認為可以算職業災害",
+    "本案自費醫材算必要的醫療費用，法院比較了治療上的差異和勞工的工作需要",
+    "本案勞工治療期間自請離職，法院認為離職隔天起，醫院就不用再按原領工資補償"
+   ],
+   "case": "臺灣高等法院 114 年度勞上易字第 101 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C114%2C%E5%8B%9E%E4%B8%8A%E6%98%93%2C101%2C20260929%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-16",
+   "img": "img/136.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122131433559373029",
+   "ig": "https://www.instagram.com/p/DfzfPJBk8er/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DfzfRRNiUuC"
+  },
   {
    "no": 135,
    "title": "差了四十二分鐘",
