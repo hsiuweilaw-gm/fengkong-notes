@@ -1,7 +1,45 @@
 {
- "updated": "2026-11-17",
- "count": 136,
+ "updated": "2026-11-19",
+ "count": 138,
  "episodes": [
+  {
+   "no": 139,
+   "title": "第一任主委墊的錢",
+   "keywords": "無因管理・15年時效・訴訟中主張抵銷",
+   "hook": "住戶主張，當時大樓還沒全部蓋完，其他住戶也還沒全部遷入，自己陸續墊了27項工程款，共37萬2,843元。二十多年後，法院只判管委會還12萬5,000元。",
+   "takeaways": [
+    "替社區先墊公共費用，可能依無因管理請求返還，但要是必要或有益的費用",
+    "本案法院逐筆算15年時效，並認為在另一件官司裡主張抵銷，相當於起訴",
+    "墊款留單據與會議紀錄，交接時結清（這一條判決沒有談，是我的建議）"
+   ],
+   "case": "臺灣高等法院 115 年度上易字第 348 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C115%2C%E4%B8%8A%E6%98%93%2C348%2C20260707%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-19",
+   "img": "img/139.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122131927581373029",
+   "ig": "https://www.instagram.com/p/Df7NnHKExyY/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Df7NoqziRBM"
+  },
+  {
+   "no": 138,
+   "title": "保費退多少",
+   "keywords": "保單無效・不當得利返還・民法第180條第3款・15年時效",
+   "hook": "15萬6,000元的保費，保單是無效的。已領回的扣掉後，被保險人請求7萬4,108元，二審判2萬108元。",
+   "takeaways": [
+    "本案要保人以他人為被保險人，保單未經被保險人同意而無效，已繳保費依不當得利請求返還",
+    "本案保險公司主張要保人明知保單無效，法院不採",
+    "能退的金額，要扣已領回的，也要看時效"
+   ],
+   "case": "臺灣高等法院臺南分院 115 年度保險上易字第 4 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNHV%2C115%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C4%2C20260923%2C1",
+   "line": "保險理賠",
+   "date": "2026-11-18",
+   "img": "img/138.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122131782855373029",
+   "ig": "https://www.instagram.com/p/Df4psRPk1Pp/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Df4pt7HiV2Q"
+  },
   {
    "no": 137,
    "title": "孩子在安親班受傷",
