@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-19",
- "count": 138,
+ "updated": "2026-11-20",
+ "count": 139,
  "episodes": [
+  {
+   "no": 140,
+   "title": "醫院沒有病床，改門診施打算不算住院",
+   "keywords": "住院必要性・視同住院・疫情期間",
+   "hook": "前十次標靶藥物治療，保戶都住院施打，保險公司也都給付了住院保險金。第十一次起，醫院以病房要優先給新冠肺炎病患為由，改為門診施打。",
+   "takeaways": [
+    "本來就需要住院，改門診是因為病房要先給疫情病患。",
+    "前十次住院施打都賠過，後八次是接續的標靶藥物治療。",
+    "附約寫得清楚，要正式辦理住院手續。"
+   ],
+   "case": "臺灣高等法院臺南分院 112 年度保險上易字第 3 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNHV%2C112%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C3%2C20240411%2C1",
+   "line": "保險理賠",
+   "date": "2026-11-20",
+   "img": "img/140.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122132064087373029",
+   "ig": "https://www.instagram.com/p/Df9yUXPE-Py/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/Df9yWEICUlB"
+  },
   {
    "no": 139,
    "title": "第一任主委墊的錢",
