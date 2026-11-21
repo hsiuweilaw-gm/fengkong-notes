@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-20",
- "count": 139,
+ "updated": "2026-11-21",
+ "count": 140,
  "episodes": [
+  {
+   "no": 141,
+   "title": "鑰匙沒還",
+   "keywords": "提前退租・終止租約・受領遲延",
+   "hook": "「我就租到今天」，房客在LINE傳了這句話，房東沒有回。",
+   "takeaways": [
+    "該由房東修的東西壞了，想終止租約，要先定期限催告修繕，期限內房東不修才能終止",
+    "租約有提前終止條款，照條款走",
+    "房東不接電話、不收鑰匙，訊息和通話錄音留好"
+   ],
+   "case": "臺灣臺南地方法院 115 年度簡上字第 57 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNDV%2C115%2C%E7%B0%A1%E4%B8%8A%2C57%2C20260909%2C2",
+   "line": "生活與程序",
+   "date": "2026-11-21",
+   "img": "img/141.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122132227233373029",
+   "ig": "https://www.instagram.com/p/DgAXGtwD6Pz/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DgAXJSoiapX"
+  },
   {
    "no": 140,
    "title": "醫院沒有病床，改門診施打算不算住院",
