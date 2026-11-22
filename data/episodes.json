@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-21",
- "count": 140,
+ "updated": "2026-11-22",
+ "count": 141,
  "episodes": [
+  {
+   "no": 142,
+   "title": "求職交出三個帳戶",
+   "keywords": "幫助侵權・未必故意・與有過失",
+   "hook": "「應公司要求始提供帳戶，復未領取分文薪資，實與被上訴人同為被害人。」",
+   "takeaways": [
+    "本案交帳戶的人被認定為民事上的幫助人，要和詐騙集團連帶賠",
+    "說自己也是去應徵的，本案法院拿常情逐項對照",
+    "求職時對方要帳戶、提款卡或網銀密碼，就停"
+   ],
+   "case": "臺灣屏東地方法院 115 年度簡上字第 28 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=PTDV%2C115%2C%E7%B0%A1%E4%B8%8A%2C28%2C20260918%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-22",
+   "img": "img/142.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122132384517373029",
+   "ig": "https://www.instagram.com/p/DgC7-ZTD0CK/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DgC8AMNCYY4"
+  },
   {
    "no": 141,
    "title": "鑰匙沒還",
