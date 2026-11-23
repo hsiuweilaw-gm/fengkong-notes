@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-22",
- "count": 141,
+ "updated": "2026-11-23",
+ "count": 142,
  "episodes": [
+  {
+   "no": 143,
+   "title": "車禍後失智，沒有車禍前的病歷",
+   "keywords": "強制險・失能給付・因果關係",
+   "hook": "家人說，車禍隔天，長輩開始認知混淆。一年多後，醫師的診斷證明寫著，日常生活全須他人扶助。",
+   "takeaways": [
+    "強制險請求失能給付，因果關係由請求的一方證明",
+    "本案鑑定缺少車禍前的智能狀態，無法判斷撞擊有沒有加速退化",
+    "長輩平常的就醫紀錄，可能就是日後比對的基準"
+   ],
+   "case": "臺灣高等法院臺南分院 114 年度保險上易字第 5 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNHV%2C114%2C%E4%BF%9D%E9%9A%AA%E4%B8%8A%E6%98%93%2C5%2C20260326%2C1",
+   "line": "保險理賠",
+   "date": "2026-11-23",
+   "img": "img/143.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122132556219373029",
+   "ig": "https://www.instagram.com/p/DgFguMKD2cY/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DgFgvlOiSC1"
+  },
   {
    "no": 142,
    "title": "求職交出三個帳戶",
