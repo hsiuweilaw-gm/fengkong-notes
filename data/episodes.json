@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-23",
- "count": 142,
+ "updated": "2026-11-24",
+ "count": 143,
  "episodes": [
+  {
+   "no": 144,
+   "title": "交屋後收到國有財產署公文",
+   "keywords": "中古屋增建・減少價金・違建條款",
+   "hook": "簽約八個月後，買方收到一封國有財產署的公文：你家占用國有地，請付錢，再把占用的部分拆掉，或來談承租。",
+   "takeaways": [
+    "本案存證信函寫了坪數減少和請求金額，二審認定已經行使減價請求，沒寫法律名詞不影響",
+    "契約裡交屋後拆除由買方承擔的條款，本案法院不區分拆除原因",
+    "買有增建的房子，簽約前先調地籍圖"
+   ],
+   "case": "臺灣桃園地方法院 115 年度簡上字第 36 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TYDV%2C115%2C%E7%B0%A1%E4%B8%8A%2C36%2C20260724%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-24",
+   "img": "img/144.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122132733537373029",
+   "ig": "https://www.instagram.com/p/DgIFnBgkxR_/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DgIFo2aiQe3"
+  },
   {
    "no": 143,
    "title": "車禍後失智，沒有車禍前的病歷",
