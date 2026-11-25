@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-24",
- "count": 143,
+ "updated": "2026-11-25",
+ "count": 144,
  "episodes": [
+  {
+   "no": 145,
+   "title": "登記在弟弟名下的地",
+   "keywords": "借名登記・間接事實・借名人死亡",
+   "hook": "「跟大哥一起買那塊地」",
+   "takeaways": [
+    "借名登記，法院可以從間接事實認定",
+    "本案借名的大哥過世，法院依民法第550條認定借名關係消滅，繼承人可以請求移轉",
+    "家人之間借名登記，把約定寫下來"
+   ],
+   "case": "臺灣高等法院臺南分院 115 年度上易字第 90 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNHV%2C115%2C%E4%B8%8A%E6%98%93%2C90%2C20260708%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-25",
+   "img": "img/145.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122132885715373029",
+   "ig": "https://www.instagram.com/p/DgKqQHfEwMO/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DgKqRnnCbZw"
+  },
   {
    "no": 144,
    "title": "交屋後收到國有財產署公文",
