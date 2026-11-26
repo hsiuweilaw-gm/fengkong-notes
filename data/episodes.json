@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-25",
- "count": 144,
+ "updated": "2026-11-26",
+ "count": 145,
  "episodes": [
+  {
+   "no": 146,
+   "title": "機構說居服員是「靠行」",
+   "keywords": "從屬性・資遣費排除條款・A碼獎勵金",
+   "hook": "長照機構評鑑丙等，主管機關不再特約。團體督導會議上，機構告訴居服員「114年度起不再派案」。",
+   "takeaways": [
+    "機構說是靠行，本案法院逐項看派案、考評、代班、報酬，也看契約名稱",
+    "本案契約寫「無須給付」資遣費，法院認為終止原因和條款不符，而且勞退條例的資遣費是強制規定，不能用契約排除",
+    "派案紀錄、考評通知、薪資單都留著"
+   ],
+   "case": "臺灣高等法院臺中分院 115 年度勞上易字第 11 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TCHV%2C115%2C%E5%8B%9E%E4%B8%8A%E6%98%93%2C11%2C20260722%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-26",
+   "img": "img/146.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122133039189373029",
+   "ig": "https://www.instagram.com/p/DgNPC7sEwy4/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DgNPElWCQGJ"
+  },
   {
    "no": 145,
    "title": "登記在弟弟名下的地",
