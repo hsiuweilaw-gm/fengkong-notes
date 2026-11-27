@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-26",
- "count": 145,
+ "updated": "2026-11-27",
+ "count": 146,
  "episodes": [
+  {
+   "no": 147,
+   "title": "投保前十六天做了超音波，算不算帶病投保",
+   "keywords": "保險法第127條・已在疾病中・舉證責任",
+   "hook": "做完超音波檢查的第16天，保戶投保了一張重大疾病終身保險，保額50萬元。",
+   "takeaways": [
+    "醫師當天說，6個月後再追蹤就好。",
+    "不能拿事後的診斷，回頭推說投保時就知道。",
+    "檢查當天，醫師已經建議切片。"
+   ],
+   "case": "臺灣新竹地方法院 115 年度保險簡上字第 2 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=SCDV%2C115%2C%E4%BF%9D%E9%9A%AA%E7%B0%A1%E4%B8%8A%2C2%2C20261007%2C1",
+   "line": "保險理賠",
+   "date": "2026-11-27",
+   "img": "img/147.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122133194151373029",
+   "ig": "https://www.instagram.com/p/DgP0tIHEzds/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DgP0uugCWbY"
+  },
   {
    "no": 146,
    "title": "機構說居服員是「靠行」",
