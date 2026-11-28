@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-27",
- "count": 146,
+ "updated": "2026-11-28",
+ "count": 147,
  "episodes": [
+  {
+   "no": 148,
+   "title": "繼承的房子一個人出租",
+   "keywords": "公同共有・不當得利・費用分擔",
+   "hook": "月租2萬5,000元。房子是四兄弟一起繼承的，出租和收租的只有其中一人。",
+   "takeaways": [
+    "繼承的房子還沒分割，本案出租者沒有取得其他繼承人依法的同意，法院認定無權自行出租",
+    "分割前、分割後收的租金，還的對象不一樣",
+    "本案為共有房子打官司的律師費，按應有部分分攤；裁判費、鑑定費要等另案判完"
+   ],
+   "case": "臺灣高等法院 114 年度上易字第 1084 號",
+   "judgment_url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2C114%2C%E4%B8%8A%E6%98%93%2C1084%2C20260811%2C1",
+   "line": "生活與程序",
+   "date": "2026-11-28",
+   "img": "img/148.jpg",
+   "fb": "https://www.facebook.com/122107634937373029/posts/122133354537373029",
+   "ig": "https://www.instagram.com/p/DgSYtfUk_0C/",
+   "th": "https://www.threads.com/@hsiuwei0101/post/DgSYu-Tiayl"
+  },
   {
    "no": 147,
    "title": "投保前十六天做了超音波，算不算帶病投保",
